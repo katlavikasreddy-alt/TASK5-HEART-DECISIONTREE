@@ -25,7 +25,7 @@ Build and evaluate Decision Tree and Random Forest classification models to pred
 * Compared model accuracies
 * Evaluated performance using:
 
-  * Accuracy Score
+* Accuracy Score
   * Confusion Matrix
   * Classification Report
   * Cross-Validation Score
